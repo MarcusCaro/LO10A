@@ -1,3 +1,22 @@
+commit d12a9310596ecc96c2d0e708e99b97b7ac607878
+Merge: 3d91dcd a778f3c
+Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
+Date:   Fri Oct 2 14:15:02 2026 -0600
+
+    Merge remote changes from Marcus
+
+commit 3d91dcd3b5e1df477f2aae4e184cdd10e6c693d8
+Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
+Date:   Fri Oct 2 14:11:30 2026 -0600
+
+    Changed FramSize.
+
+commit a778f3cacfabef80075404a1e4c8552938655174
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Fri Oct 2 14:05:36 2026 -0600
+
+    Adjusted cat position
+
 commit 83ac6df6c21b409c5a05344ad25626c9454cd868
 Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
 Date:   Fri Oct 2 13:40:28 2026 -0600
