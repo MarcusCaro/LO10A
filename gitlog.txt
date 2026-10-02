@@ -1,0 +1,11 @@
+commit 83ac6df6c21b409c5a05344ad25626c9454cd868
+Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
+Date:   Fri Oct 2 13:40:28 2026 -0600
+
+    Repositioned the Cat Drawing. Driver: Trisha
+
+commit 0ddc2e1df3a870e54a8d78c4d81ceb1554a62b1e
+Author: MarcusCaro <Marcus_Caro@mines.edu>
+Date:   Fri Oct 2 12:26:26 2026 -0600
+
+    Initialize
