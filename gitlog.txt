@@ -1,3 +1,28 @@
+commit 2bd1dbf3a8b6ca755c16d7d066f52cbf1b0ff1fd
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Fri Oct 2 14:19:45 2026 -0600
+
+    Change cat eye height
+
+commit 774696c87a86b81142509596c70dc392d1a85309
+Merge: 84bd072 6e2fb75
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Fri Oct 2 14:18:34 2026 -0600
+
+    Merge branch 'main' of https://github.com/MarcusCaro/LO9P
+
+commit 84bd0729cd5499676d6246972884ff5e1f6fc6a3
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Fri Oct 2 14:18:30 2026 -0600
+
+    Test
+
+commit 6e2fb758dec4b8b9709ac8b34b054de0620301f7
+Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
+Date:   Fri Oct 2 14:16:49 2026 -0600
+
+    Final submission updates. Driver: Trisha, changed Frame Size.
+
 commit d12a9310596ecc96c2d0e708e99b97b7ac607878
 Merge: 3d91dcd a778f3c
 Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
@@ -9,7 +34,7 @@ commit 3d91dcd3b5e1df477f2aae4e184cdd10e6c693d8
 Author: Trisha Varadaraj <trisha_varadaraj@mines.edu>
 Date:   Fri Oct 2 14:11:30 2026 -0600
 
-    Changed FramSize.
+    Changed FrameSize.
 
 commit a778f3cacfabef80075404a1e4c8552938655174
 Author: MarcusCaro <marcus_caro@mines.edu>
